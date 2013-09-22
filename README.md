@@ -1,6 +1,8 @@
 php-casperjs
 ============
 
+Forked from alwex/php-casperjs
+
 php-casperjs is a simple PHP wrapper for the fine library CasperJS designed to automate 
 user testing against web pages.
 
